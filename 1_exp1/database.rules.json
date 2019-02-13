@@ -1,0 +1,18 @@
+{
+  "rules": {
+    "data": {
+      "$userID": {
+        ".read": false,
+        ".write": true,
+  	  }
+    },
+  	"stimuli": {
+        ".read": true,
+        ".write": false,
+    },
+    "backup": {
+        ".read": false,
+        ".write": true,
+    },
+  }
+}
