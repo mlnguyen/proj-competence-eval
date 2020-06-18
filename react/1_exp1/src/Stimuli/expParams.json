@@ -1,0 +1,296 @@
+{
+    "group": "4",
+
+    "profileList": ["high_01", "high_02", "high_03", "high_04", "high_05", "high_06", "high_07", "high_08",
+        "avg_01", "avg_02", "avg_03", "avg_04", "avg_05", "avg_06", "avg_07", "avg_08", 
+        "low_01", "low_02", "low_03", "low_04", "low_05", "low_06", "low_07", "low_08"],
+
+
+  "high_01": {
+        "profile": "high_01",
+        "group1": 1,
+        "photo1": "comp37.jpg",
+        "group2": 0,
+        "photo2": "incomp46.jpg",
+        "group3": 1,
+        "photo3": "comp37.jpg",
+        "group4": 0,
+        "photo4": "incomp46.jpg"
+  },
+
+  "high_02":  {
+    "profile": "high_02",
+    "group1": 0,
+    "photo1": "incomp19.jpg",
+    "group2": 1,
+    "photo2": "comp42.jpg",
+    "group3": 1,
+    "photo3": "comp42.jpg",
+    "group4": 0,
+    "photo4": "incomp19.jpg"
+  },
+
+  "high_03": {
+    "profile": "high_03",
+    "group1": 1,
+    "photo1": "comp34.jpg",
+    "group2": 0,
+    "photo2": "incomp11.jpg",
+    "group3": 1,
+    "photo3": "comp34.jpg",
+    "group4": 0,
+    "photo4": "incomp11.jpg"
+  },
+
+  "high_04": {
+    "profile": "high_04",
+    "group1": 0,
+    "photo1": "incomp3.jpg",
+    "group2": 1,
+    "photo2": "comp48.jpg",
+    "group3": 1,
+    "photo3": "comp48.jpg",
+    "group4": 0,
+    "photo4": "incomp3.jpg"
+  },
+  
+  "high_05": {
+    "profile": "high_05",
+    "group1": 1,
+    "photo1": "comp45.jpg",
+    "group2": 0,
+    "photo2": "incomp10.jpg",
+    "group3": 0,
+    "photo3": "incomp10.jpg",
+    "group4": 1,
+    "photo4": "comp45.jpg"
+  },
+  
+  "high_06": {
+    "profile": "high_06",
+    "group1": 0,
+    "photo1": "incomp32.jpg",
+    "group2": 1,
+    "photo2": "comp38.jpg",
+    "group3": 0,
+    "photo3": "incomp32.jpg",
+    "group4": 1,
+    "photo4": "comp38.jpg"
+  },
+  
+  "high_07": {
+    "profile": "high_07",
+    "group1": 1,
+    "photo1": "comp35.jpg",
+    "group2": 0,
+    "photo2": "incomp15.jpg",
+    "group3": 0,
+    "photo3": "incomp15.jpg",
+    "group4": 1,
+    "photo4": "comp35.jpg"
+  },
+  
+  "high_08":{
+    "profile": "high_08",
+    "group1": 0,
+    "photo1": "incomp12.jpg",
+    "group2": 1,
+    "photo2": "comp50.jpg",
+    "group3": 0,
+    "photo3": "incomp12.jpg",
+    "group4": 1,
+    "photo4": "comp50.jpg"
+  },
+  
+  "avg_01": {
+    "profile": "avg_01",
+    "group1": 1,
+    "photo1": "comp38.jpg",
+    "group2": 0,
+    "photo2": "incomp49.jpg",
+    "group3": 1,
+    "photo3": "comp38.jpg",
+    "group4": 0,
+    "photo4": "incomp49.jpg"
+  },
+  
+  "avg_02": {
+    "profile": "avg_02",
+    "group1": 0,
+    "photo1": "incomp10.jpg",
+    "group2": 1,
+    "photo2": "comp45.jpg",
+    "group3": 1,
+    "photo3": "comp45.jpg",
+    "group4": 0,
+    "photo4": "incomp10.jpg"
+  },
+  
+  "avg_03": {
+    "profile": "avg_03",
+    "group1": 1,
+    "photo1": "comp50.jpg",
+    "group2": 0,
+    "photo2": "incomp17.jpg",
+    "group3": 1,
+    "photo3": "comp50.jpg",
+    "group4": 0,
+    "photo4": "incomp17.jpg"
+  },
+  
+  "avg_04": {
+    "profile": "avg_04",
+    "group1": 0,
+    "photo1": "incomp15.jpg",
+    "group2": 1,
+    "photo2": "comp35.jpg",
+    "group3": 1,
+    "photo3": "comp35.jpg",
+    "group4": 0,
+    "photo4": "incomp15.jpg"
+  },
+  
+  "avg_05": {
+    "profile": "avg_05",
+    "group1": 1,
+    "photo1": "comp25.jpg",
+    "group2": 0,
+    "photo2": "incomp1.jpg",
+    "group3": 0,
+    "photo3": "incomp1.jpg",
+    "group4": 1,
+    "photo4": "comp25.jpg"
+  },
+  
+  "avg_06": {
+    "profile": "avg_06",
+    "group1": 0,
+    "photo1": "incomp46.jpg",
+    "group2": 1,
+    "photo2": "comp31.jpg",
+    "group3": 0,
+    "photo3": "incomp46.jpg",
+    "group4": 1,
+    "photo4": "comp31.jpg"
+  },
+  
+  "avg_07": {
+    "profile": "avg_07",
+    "group1": 1,
+    "photo1": "comp22.jpg",
+    "group2": 0,
+    "photo2": "incomp13.jpg",
+    "group3": 0,
+    "photo3": "incomp13.jpg",
+    "group4": 1,
+    "photo4": "comp22.jpg"
+  },
+  
+  "avg_08": {
+    "profile": "avg_08",
+    "group1": 0,
+    "photo1": "incomp11.jpg",
+    "group2": 1,
+    "photo2": "comp43.jpg",
+    "group3": 0,
+    "photo3": "incomp11.jpg",
+    "group4": 1,
+    "photo4": "comp43.jpg"
+  },
+  
+  "low_01": {
+    "profile": "low_01",
+    "group1": 1,
+    "photo1": "comp31.jpg",
+    "group2": 0,
+    "photo2": "incomp32.jpg",
+    "group3": 1,
+    "photo3": "comp31.jpg",
+    "group4": 0,
+    "photo4": "incomp32.jpg"
+  },
+  
+  "low_02": {
+    "profile": "low_02",
+    "group1": 0,
+    "photo1": "incomp1.jpg",
+    "group2": 1,
+    "photo2": "comp25.jpg",
+    "group3": 1,
+    "photo3": "comp25.jpg",
+    "group4": 0,
+    "photo4": "incomp1.jpg"
+  },
+  
+  "low_03": {
+    "profile": "low_03",
+    "group1": 1,
+    "photo1": "comp43.jpg",
+    "group2": 0,
+    "photo2": "incomp12.jpg",
+    "group3": 1,
+    "photo3": "comp43.jpg",
+    "group4": 0,
+    "photo4": "incomp12.jpg"
+  },
+  
+  "low_04": {
+    "profile": "low_04",
+    "group1": 0,
+    "photo1": "incomp13.jpg",
+    "group2": 1,
+    "photo2": "comp22.jpg",
+    "group3": 1,
+    "photo3": "comp22.jpg",
+    "group4": 0,
+    "photo4": "incomp13.jpg"
+  },
+  
+  "low_05": {
+    "profile": "low_05",
+    "group1": 1,
+    "photo1": "comp42.jpg",
+    "group2": 0,
+    "photo2": "incomp19.jpg",
+    "group3": 0,
+    "photo3": "incomp19.jpg",
+    "group4": 1,
+    "photo4": "comp42.jpg"
+  },
+  
+  "low_06": {
+    "profile": "low_06",
+    "group1": 0,
+    "photo1": "incomp49.jpg",
+    "group2": 1,
+    "photo2": "comp37.jpg",
+    "group3": 0,
+    "photo3": "incomp49.jpg",
+    "group4": 1,
+    "photo4": "comp37.jpg"
+  },
+  
+  "low_07": {
+    "profile": "low_07",
+    "group1": 1,
+    "photo1": "comp48.jpg",
+    "group2": 0,
+    "photo2": "incomp3.jpg",
+    "group3": 0,
+    "photo3": "incomp3.jpg",
+    "group4": 1,
+    "photo4": "comp48.jpg"
+  },
+  
+  "low_08": {
+    "profile": "low_08",
+    "group1": 0,
+    "photo1": "incomp17.jpg",
+    "group2": 1,
+    "photo2": "comp34.jpg",
+    "group3": 0,
+    "photo3": "incomp17.jpg",
+    "group4": 1,
+    "photo4": "comp34.jpg"
+  }
+}
